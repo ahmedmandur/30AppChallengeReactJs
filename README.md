@@ -8,3 +8,6 @@ i used countries list as a proof of concept, but you can change the datasource t
 
 ### [App2 - ReactJs HereMaps Autocomplete Input](https://github.com/ahmedmandur/react-here-autocomplete)
 Using **react js** only to create the component which is reusable in any reactjs project with **here maps api**.
+
+### [App3 - ReactJs Music Player](https://github.com/ahmedmandur/reactjs-music-player)
+Using **react js** to create a simple music player.
