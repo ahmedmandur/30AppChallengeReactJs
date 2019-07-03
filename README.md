@@ -13,5 +13,5 @@ Using **react js** only to create the component which is reusable in any reactjs
 Using **react js** to create a simple music player.
 
 
-### [App4 - ReactJs Music Player](https://github.com/ahmedmandur/project-planning-react-redux-firebase)
+### [App4 - Project Plannig](https://github.com/ahmedmandur/project-planning-react-redux-firebase)
 Using **react js** - **redux** - **firebase** to create a project planning simple website.
